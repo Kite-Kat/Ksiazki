@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="title">Twoje książki</string>
+
+    <string name="add">Dodaj</string>
+    <string name="save">Zapisz</string>
+    <string name="cancel">Anuluj</string>
+    <string name="isRead">Przeczytana</string>
+    <string name="isnotRead">Nieprzeczytana</string>
+    <string name="login">Zaloguj się</string>
+    <string name="ifRegistrationNedded">Zarejestruj się</string>
+    <string name="register">Zarejestruj się</string>
+</resources>
